@@ -31,3 +31,7 @@ docker run -p 8000:8000 back_end_go_server
 ```bash
 http://localhost:8000
 ```
+**6. Output:**
+```bash
+Hello from the Go server!
+```
